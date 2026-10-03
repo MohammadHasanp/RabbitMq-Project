@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CalculateOrderFee/CalculateOrderFee.csproj" />
+  <Project Path="RegisterUser/RegisterUser.csproj" />
+  <Project Path="SendEmailProject/SendEmailProject.csproj" />
+  <Project Path="SendSMSProject/SendSMSProject.csproj" />
+  <Project Path="Util/Util.csproj" />
+</Solution>
