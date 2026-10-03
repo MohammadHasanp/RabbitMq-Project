@@ -276,9 +276,6 @@ Before using this approach in production, consider adding:
 - Idempotent consumers to safely handle redelivery
 - Automated unit, integration, and broker-backed tests
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You may use, modify, and distribute it under the terms in that file.
 
 ## Author
 
